@@ -9,7 +9,7 @@ The **📊 More Columns Sims 4** is the essential UI mod for players who want to
 
 <div align="center">
 
-[![Download More Columns Sims 4](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/more-columns-sims-4)
+[![Download More Columns Sims 4](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/more-columns-sims-4)
 
 </div>
 
@@ -94,7 +94,7 @@ You want to see more items at once. You want faster browsing. You want a better 
 6. **🎮 Launch The Sims 4** — open the game
 7. **👤 Enter CAS** — see more columns instantly
 
-[![Download More Columns Sims 4](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/more-columns-sims-4)
+[![Download More Columns Sims 4](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/more-columns-sims-4)
 
 ### Choosing Column Count
 
@@ -197,7 +197,7 @@ Stop scrolling endlessly through CAS. **More Columns Sims 4** expands your displ
 
 <div align="center">
 
-[![Download More Columns Sims 4](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/more-columns-sims-4)
+[![Download More Columns Sims 4](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/more-columns-sims-4)
 
 **Version 4.6.1** — Expand CAS columns. Free forever.
 
